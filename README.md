@@ -88,7 +88,3 @@ The project uses GitHub Actions for CI/CD. The workflow is defined in `.github/w
 2. Running tests
 3. Building the React.js application
 4. Deploying to AWS
-
-## License
-
-MIT
